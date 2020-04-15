@@ -1,5 +1,5 @@
 header{
-  background-image: url(../image/header.jpg);
+  background-image: url('../image/header.jpg');
   background-size: cover;
   height: 1300px;
   display: flex;
@@ -7,6 +7,6 @@ header{
   align-items: center
 }
 h1{
-  font: arial,sans-serif;
+  font-family: 'Playfair Display', serif;
   font-size: 20em;
 }
